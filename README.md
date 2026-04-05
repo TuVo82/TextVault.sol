@@ -14,3 +14,4 @@ contract TextVault {
         message = _newMessage;
     }
 }
+Deploy initial contract
