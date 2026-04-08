@@ -17,3 +17,4 @@ contract TextVault {
 Deploy initial contract
 Optimize function calls
 Improve readability
+Add simple test case
