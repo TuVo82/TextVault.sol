@@ -19,3 +19,4 @@ Optimize function calls
 Improve readability
 Add simple test case
 Fix logic error
+Improve naming scheme
