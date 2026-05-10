@@ -20,3 +20,4 @@ Improve readability
 Add simple test case
 Fix logic error
 Improve naming scheme
+Add helper function
